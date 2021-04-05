@@ -1,2 +1,2 @@
 # git-github
-this is for trail 
+this is for trail purpose
